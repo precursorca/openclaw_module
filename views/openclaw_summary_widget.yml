@@ -1,0 +1,14 @@
+type: button
+widget_id: openclaw-summary-button-widget
+api_url: /module/openclaw/get_list/summary
+i18n_title: openclaw.widget.summary_title
+icon: fa-laptop
+listing_link: /show/listing/openclaw/openclaw
+buttons:
+  - label: "0"
+    i18n_label: no
+    class: btn-success
+  - label: "1"
+    i18n_label: yes
+    class: btn-danger
+
