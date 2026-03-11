@@ -5,7 +5,7 @@ An OpenClaw detection module for munkireport based on https://github.com/knostic
 > March 11, 2026 
 > Alex Narvey / Precursor.ca
 >
-> ![OpenClaw Module Report](OpenClaw_Widget.png)
+
 
 Detects and reports on OpenClaw instances.
 
