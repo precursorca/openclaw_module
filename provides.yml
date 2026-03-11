@@ -1,0 +1,15 @@
+client_tabs:
+    openclaw:
+        view: openclaw_tab
+        i18n: openclaw.title
+listings:
+    openclaw:
+        view: openclaw_listing
+        i18n: openclaw.listing.title
+reports:
+    openclaw:
+        view: openclaw_report
+        i18n: openclaw.report.title
+widgets:
+    openclaw_summary:
+        view: openclaw_summary_widget
