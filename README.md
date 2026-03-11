@@ -13,13 +13,13 @@ The following information is stored in the table:
 
 * Summary - Whether OpenClaw is present
 * Platform - Always Darwin for Macs
-* App - 
-* CLI - 
-* CLI Version - 
-* State Dir - 
-* Config - 
-* Gateway Services -
-* Gateway Port -
+* App -  (/Applications/OpenClaw.app)
+* CLI - (openclaw)
+* CLI Version - version
+* State Dir - (~/.openclaw)
+* Config - (~/.openclaw/openclaw.json)
+* Gateway Services - (launchd/systemd/schtasks)
+* Gateway Port - (default 18789)
 * Docker Container -
 * Docker Image -
 
