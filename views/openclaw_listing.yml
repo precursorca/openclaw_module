@@ -1,0 +1,31 @@
+i18n_title: openclaw.listing.title
+table:
+    -   column: machine.computer_name
+        i18n_header: listing.computername
+        formatter: clientDetail
+        tab_link: openclaw
+    -   column: reportdata.serial_number
+        i18n_header: serial
+    -   column: openclaw.summary
+        i18n_header: openclaw.column.summary
+        formatter: binaryYesNo
+    -   column: openclaw.platform
+        i18n_header: openclaw.column.platform
+    -   column: openclaw.app
+        i18n_header: openclaw.column.app
+    -   column: openclaw.cli
+        i18n_header: openclaw.column.cli
+    -   column: openclaw.cli_version
+        i18n_header: openclaw.column.cli_version
+    -   column: openclaw.state_dir
+        i18n_header: openclaw.column.state_dir
+    -   column: openclaw.config
+        i18n_header: openclaw.column.config
+    -   column: openclaw.gateway_service
+        i18n_header: openclaw.column.gateway_service
+    -   column: openclaw.gateway_port
+        i18n_header: openclaw.column.gateway_port
+    -   column: openclaw.docker_container
+        i18n_header: openclaw.column.docker_container
+    -   column: openclaw.docker_image
+        i18n_header: openclaw.column.docker_image
