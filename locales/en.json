@@ -1,0 +1,35 @@
+{
+    "column": {
+        "summary": "OpenClaw Status",
+        "platform": "Platform",
+        "app": "App",
+        "cli": "Cli",
+        "cli_version": "Cli Version",
+        "state_dir": "State Dir",
+        "config": "Config",
+        "gateway_service": "Gateway Service",
+        "gateway_port": "Gateway Port",
+        "docker_container": "Docker Container",
+        "docker_image": "Docker Image"
+    },
+    "listing": {
+        "title": "OpenClaw"
+    },
+    "report": {
+        "title": "OpenClaw Report"
+    },
+    "title": "OpenClaw",
+    "widget": {
+        "summary_title": "OpenClaw Status",
+        "platform_title": "Platform",
+        "app_title": "App",
+        "cli_title": "Cli",
+        "cli_version_title": "Cli Version",
+        "state_dir_title": "State Dir",
+        "config_title": "Config",
+        "gateway_service_title": "Gateway Service",
+        "gateway_port_title": "Gateway Port",
+        "docker_container_title": "Docker Container",
+        "docker_image_title": "Docker Image"
+    }
+}
